@@ -38,8 +38,8 @@ int main()
   while (1)
   {
     x=adxl_readx();
-		y=adxl_ready();
-		z=adxl_readz();
+    y=adxl_ready();
+    z=adxl_readz();
   }  
 }
 
