@@ -1,6 +1,6 @@
 ## Adxl345 library for STM32 HAL
 
-![GY906](https://opencircuit.shop/resources/content/80b431eb77993/crop/900-600/ADXL345-3-axis-Accelerometer.jpg)
+![GY906](https://www.apogeeweb.net/upload/image/20210112/2021011210411046.jpg)
 
 
 *	Author:     Amin Hosseini
